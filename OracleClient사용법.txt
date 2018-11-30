@@ -1,0 +1,22 @@
+[ Oracle Client 사용법 ]
+
+
+(1) Oracle Server 측 
+ 
+    C:\oraclexe\app\oracle\product\11.2.0\server\network\ADMIN
+    "tnsnames.ora" 파일을 열어 ( HOST = 실제 서버의 IP ) 수정 
+
+
+(2) Oracle Client 측 
+
+    <1> 오라클 클라이언트 ( win64_11gR2_client.zip ) 다운 및 설치 
+
+    <2> 디벨로퍼
+
+        1> sqldeveloper-4.1.3.20.78-x64.zip(jdk8포함 버젼) 다운 및 설치 
+
+        2> 서버와 연결 
+           관리자 권한으로 실행 후 Oracle Server와 연결 
+
+           
+ 

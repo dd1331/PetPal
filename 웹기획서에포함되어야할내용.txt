@@ -1,0 +1,33 @@
+< 기획서에 포함되어야 할 내용 (웹) > 
+
+(1) 주제 선정 
+   - 주제
+   - 동기: 사업[수익모델], 취업, 틈세시장,.. 
+
+(2) 밴치 마킹: 기존 서비스 분석 (장단점) 
+(3) 주요 UI 구성: ex)메인 UI, 스토리보드
+(4) 서비스 단계(tier) 구성도
+   - Client: ex) PC웹브라우져, 모바일(네이티브,하이브리드, 웹앱)
+   - Server: ex) JSP, struts, spring, ORM, DBMS
+    cf) 데이터포멧(XML,Json, HTML,..)   
+(5) 모델링
+   - 객체지향모델링 ( UML: 유즈케이스, 클래스, 시퀀스, 액티비티,.. )
+     cf) http://okjsp.tistory.com/1165644270
+     cf) http://www.nextree.co.kr/p6753/
+
+   - DB모델링
+    (개념, 논리, 물리, sql(Create,Drop,Insert,Select), 테이블명세서)
+
+(6) 주요기술
+   - 주요언어: ex)javascript, html, nodejs, java, .. 
+   - 주요샘플코드( from Google )
+   - Framework: ex)jquery3.1.1, spring3.2, mybatis3, bootstrap3.3.7, ..
+   - Ajax
+   - IDE: ex)eclipse, android studio2.2.3, ..
+
+(7) 제작 스케쥴 
+
+(8) 운영( 이력서에 링크 ) 
+   - 웹호스팅( cafe24, 아마존서버,.. ) 
+   - 유튜브 ( 시연 영상 ) : 이력서 
+   - 웹링크 ( PPT ) : 이력서       
